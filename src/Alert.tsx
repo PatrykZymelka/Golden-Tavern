@@ -1,7 +1,7 @@
 import React from "react";
 
-const Alram = () => {
-  return <div>Alram</div>;
+const ThisIsNotAlarm = () => {
+  return <div>ThisIsNotAlarm</div>;
 };
 
-export default Alram;
+export default ThisIsNotAlarm;
